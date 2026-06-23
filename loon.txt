@@ -39,3 +39,8 @@ DOMAIN-SUFFIX,ifastgb.com
 DOMAIN-SUFFIX,ifastfinancial.com
 DOMAIN-SUFFIX,ifastnetwork.com
 DOMAIN-KEYWORD,ifast
+
+# >>>>>>>>>> 7. 国际汇款 (Wise) <<<<<<<<<<
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-KEYWORD,wise
