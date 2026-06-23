@@ -1,0 +1,41 @@
+# >>>>>>>>>> 1. 众安银行 (ZA Bank) <<<<<<<<<<
+DOMAIN-SUFFIX,zabank.com
+DOMAIN-SUFFIX,zatech.com
+DOMAIN-KEYWORD,zabank
+IP-CIDR,103.138.112.0/22
+
+# >>>>>>>>>> 2. 汇丰银行全球总集 & 投资全速易 (HSBC) <<<<<<<<<<
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbcpersonalbanking.com
+DOMAIN-SUFFIX,hsbc.ca
+DOMAIN-SUFFIX,hsbc.co.uk
+DOMAIN-SUFFIX,fundexpress.hsbc.com.hk
+DOMAIN-SUFFIX,investexpress.hsbc.com.hk
+DOMAIN-KEYWORD,hsbc
+DOMAIN-KEYWORD,investexpress
+DOMAIN-KEYWORD,fundexpress
+
+# >>>>>>>>>> 3. 嘉信理财 & thinkorswim (Charles Schwab) <<<<<<<<<<
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,charlesschwab.com
+DOMAIN-SUFFIX,schwabclient.com
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-KEYWORD,schwab
+DOMAIN-KEYWORD,thinkorswim
+
+# >>>>>>>>>> 4. 象象银行 (Livi Bank 理慧银行) <<<<<<<<<<
+DOMAIN-SUFFIX,livibank.com
+DOMAIN-KEYWORD,livibank
+
+# >>>>>>>>>> 5. 天星银行 (Airstar Bank) <<<<<<<<<<
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-KEYWORD,airstarbank
+
+# >>>>>>>>>> 6. 英国奕丰银行 (iFast Global Bank) <<<<<<<<<<
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,ifastfinancial.com
+DOMAIN-SUFFIX,ifastnetwork.com
+DOMAIN-KEYWORD,ifast
