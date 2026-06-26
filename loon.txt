@@ -1,8 +1,29 @@
 # >>>>>>>>>> 1. 众安银行 (ZA Bank) <<<<<<<<<<
-# 已移除引发转圈报错的 IP 规则，采用纯域名/关键字匹配
-DOMAIN-SUFFIX,zabank.com
-DOMAIN-SUFFIX,zatech.com
+# 关键字捕获（任何包含这些词的域名都将匹配）
 DOMAIN-KEYWORD,zabank
+DOMAIN-KEYWORD,zainvest
+DOMAIN-KEYWORD,zatech
+DOMAIN-KEYWORD,zacoin
+
+# 后缀精准捕获（众安集团、数字银行、科技底层、人寿与投资业务）
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zabank.com
+DOMAIN-SUFFIX,zatech.io
+DOMAIN-SUFFIX,zatech.com.cn
+DOMAIN-SUFFIX,za-tech.co
+DOMAIN-SUFFIX,zainsure.com.hk
+DOMAIN-SUFFIX,insure.za.group
+DOMAIN-SUFFIX,zainvest.group
+DOMAIN-SUFFIX,zainvest.com.hk
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,zacoin.com.hk
+DOMAIN-SUFFIX,zacoin.hk
+DOMAIN-SUFFIX,zafam.com.hk
+
+# 内地众安保险相关（若不需要分流，末尾加 DIRECT 即可）
+DOMAIN-SUFFIX,zhongan.com
+DOMAIN-SUFFIX,zhongan.io
+DOMAIN-SUFFIX,zhonganinsurance.com
 
 # >>>>>>>>>> 2. 汇丰银行全球总集 & 投资全速易 (HSBC) <<<<<<<<<<
 # 包含香港汇丰、海外汇丰、网银以及全速易投资、基金核心接口
