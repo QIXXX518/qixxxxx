@@ -39,15 +39,13 @@ DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,investexpress
 DOMAIN-KEYWORD,fundexpress
 
-# >>>>>>>>>> 3. 嘉信理财 & thinkorswim (Charles Schwab) <<<<<<<<<<
-# 嘉信理财国际版网银、客户端及 thinkorswim 看盘核心接口
-DOMAIN-SUFFIX,schwab.com
-DOMAIN-SUFFIX,charlesschwab.com
-DOMAIN-SUFFIX,schwabclient.com
-DOMAIN-SUFFIX,thinkorswim.com
-DOMAIN-SUFFIX,tdameritrade.com
-DOMAIN-KEYWORD,schwab
+# 关键字捕获（任何包含 thinkorswim 的域名都将匹配）
 DOMAIN-KEYWORD,thinkorswim
+
+# 后缀精准捕获（Thinkorswim 的登录、数据流与主服务域名）
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tosmobile.com
+DOMAIN-SUFFIX,tos.com
 
 # >>>>>>>>>> 4. 象象银行 (Ele Bank - 原天星银行 Airstar) <<<<<<<<<<
 # 品牌升级更名后的最新专属域名（保留旧域名过渡与最新 Ele 域名补全）
