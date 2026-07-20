@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX, linkedin.com
+DOMAIN-SUFFIX, licdn.com
+DOMAIN-SUFFIX, licdn.net
+DOMAIN-SUFFIX, linkedin.cn
+DOMAIN-SUFFIX, bizographics.com
+DOMAIN-KEYWORD, linkedin
+IP-CIDR, 108.174.0.0/19, no-resolve
+IP-CIDR, 144.2.0.0/19, no-resolve
+IP-CIDR, 216.52.16.0/20, no-resolve
