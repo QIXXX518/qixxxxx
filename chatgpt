@@ -1,0 +1,15 @@
+# Siri / Visual Intelligence → ChatGPT
+
+DOMAIN-SUFFIX,chatgpt.com,ChatGPT
+DOMAIN-SUFFIX,chat.com,ChatGPT
+DOMAIN-SUFFIX,openai.com,ChatGPT
+DOMAIN,api.openai.com,ChatGPT
+DOMAIN-SUFFIX,cdn.openai.com,ChatGPT
+DOMAIN-SUFFIX,oaistatic.com,ChatGPT
+DOMAIN-SUFFIX,oaiusercontent.com,ChatGPT
+DOMAIN-SUFFIX,livekit.cloud,ChatGPT
+DOMAIN,api.statsig.com,ChatGPT
+
+DOMAIN-SUFFIX,auth0.com,ChatGPT
+DOMAIN-SUFFIX,client-api.arkoselabs.com,ChatGPT
+DOMAIN-SUFFIX,statsig.com,ChatGPT
