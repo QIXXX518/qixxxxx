@@ -61,5 +61,7 @@ DOMAIN-SUFFIX,transferwise.com
 DOMAIN-KEYWORD,wise
 
 #appstore
-DOMAIN-SUFFIX,apps.apple.com,DIRECT
-DOMAIN-SUFFIX,itunes.apple.com,DIRECT
+DOMAIN,account.apple.com
+DOMAIN,appleid.cdn-apple.com
+DOMAIN,idmsa.apple.com
+DOMAIN,gsa.apple.com
