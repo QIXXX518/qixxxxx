@@ -59,3 +59,7 @@ DOMAIN-KEYWORD,airstarbank
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,transferwise.com
 DOMAIN-KEYWORD,wise
+
+#appstore
+DOMAIN-SUFFIX,apps.apple.com,DIRECT
+DOMAIN-SUFFIX,itunes.apple.com,DIRECT
